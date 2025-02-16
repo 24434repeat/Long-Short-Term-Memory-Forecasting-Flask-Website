@@ -1,4 +1,4 @@
-# Prediksi Jumlah Ternak Masuk dengan Model LSTM pada pasar hewan selagalas mataram
+# Tutorial Prediksi Jumlah Ternak Masuk dengan Model LSTM pada pasar hewan selagalas mataram
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
