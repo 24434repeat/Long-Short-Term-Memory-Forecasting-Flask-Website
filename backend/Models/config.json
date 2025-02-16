@@ -1,0 +1,1 @@
+{"input_size": 3, "hidden_size": 64, "num_layers": 2, "output_size": 8, "dropout_rate": 0.2, "window_size": 24, "forecast_horizon": 8}
